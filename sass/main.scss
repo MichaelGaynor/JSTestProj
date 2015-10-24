@@ -31,6 +31,14 @@ body {
   margin-top: 10%;
   float: left;
   background-color: $H1Grey;
+  button{
+    width: 30%;
+    height: 120px;
+    margin: 4px 1%;
+    padding: 0;
+    border: 1px solid $H1Green;
+    background-color: $H1Grey;
+  }
 }
 
 .player{
