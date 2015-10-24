@@ -2018,7 +2018,44 @@
 .fa-fonticons:before {
   content: ""; }
 
+h1 {
+  background-color: #171714;
+  text-align: center;
+  color: #A1E402; }
+
 body {
-  background: #e2ebf3; }
+  background: #171714;
+  padding: 0;
+  margin: 0; }
+
+.mainPage {
+  background-color: #444442;
+  width: 100%;
+  height: 600px; }
+
+.center {
+  width: 60%;
+  height: 400px;
+  margin-top: 10%;
+  float: left;
+  background-color: #171714; }
+
+.player {
+  width: 20%;
+  margin-top: 10%; }
+  .player button {
+    width: 90%;
+    margin: 5%;
+    background-color: #666664;
+    border: 0; }
+  .player button:active {
+    background-color: #171714;
+    color: magenta; }
+
+#One {
+  float: left; }
+
+#Two {
+  float: right; }
 
 /*# sourceMappingURL=main.css.map */
